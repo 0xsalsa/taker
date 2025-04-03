@@ -2719,3 +2719,12 @@
 4/2/2025 | 8:14:32 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:14:36 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:14:36 PM | ERROR | Failed to retrieve nonce for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/3/2025 | 1:02:40 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:02:40 AM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/3/2025 | 1:02:41 AM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/3/2025 | 1:02:42 AM | INFO | Login successful... 
+4/3/2025 | 1:02:42 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:02:43 AM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 962860 
+4/3/2025 | 1:02:43 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:02:43 AM | INFO | Last mining time: 4/2/2025, 1:03:21 AM
+4/3/2025 | 1:02:43 AM | WARN | Mining already started, next mining time is: 4/3/2025, 1:03:21 AM
