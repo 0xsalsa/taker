@@ -3550,3 +3550,16 @@
 4/17/2025 | 12:25:49 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:25:50 PM | INFO | Last mining time: 4/16/2025, 12:26:39 PM
 4/17/2025 | 12:25:50 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:26:39 PM
+4/17/2025 | 4:16:37 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:16:37 PM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 4:16:38 PM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 4:16:38 PM | INFO | Login successful... 
+4/17/2025 | 4:16:38 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:16:39 PM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 1274860 
+4/17/2025 | 4:16:39 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:16:40 PM | INFO | Last mining time: 4/16/2025, 12:26:39 PM
+4/17/2025 | 4:16:40 PM | INFO | Trying to start Mining for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 4:16:48 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:16:48 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 4:20:00 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
+4/17/2025 | 4:20:00 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
