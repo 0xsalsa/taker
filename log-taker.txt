@@ -3576,3 +3576,15 @@
 4/17/2025 | 8:14:42 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
 4/17/2025 | 8:14:42 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:14:42 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:03:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:03:11 AM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/18/2025 | 1:03:11 AM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/18/2025 | 1:03:12 AM | INFO | Login successful... 
+4/18/2025 | 1:03:12 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:03:13 AM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 1298860 
+4/18/2025 | 1:03:13 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:03:43 AM | INFO | Last mining time: 4/16/2025, 12:26:39 PM
+4/18/2025 | 1:03:43 AM | INFO | Trying to start Mining for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/18/2025 | 1:04:06 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/18/2025 | 1:04:06 AM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/18/2025 | 1:04:21 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x603a2ca275c38d5364e924cc8399401d38e2ddaff2401eca6cb12afa9a1bf198 
