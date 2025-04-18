@@ -3563,3 +3563,16 @@
 4/17/2025 | 4:16:48 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
 4/17/2025 | 4:20:00 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
 4/17/2025 | 4:20:00 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:14:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:14:33 PM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 8:14:33 PM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 8:14:34 PM | INFO | Login successful... 
+4/17/2025 | 8:14:34 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:14:34 PM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 1298860 
+4/17/2025 | 8:14:34 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:14:39 PM | INFO | Last mining time: 4/16/2025, 12:26:39 PM
+4/17/2025 | 8:14:39 PM | INFO | Trying to start Mining for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 8:14:42 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:14:42 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+4/17/2025 | 8:14:42 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:14:42 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
