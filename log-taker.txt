@@ -5442,3 +5442,15 @@
 5/20/2025 | 12:28:28 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
 5/20/2025 | 12:28:29 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x64234f49A1edcAC3b44a1f412EA589c32f38722a"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x52","from":"0x64234f49a1edcac3b44a1f412ea589c32f38722a","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 12:28:29 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 4:17:19 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:17:19 PM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+5/20/2025 | 4:17:20 PM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+5/20/2025 | 4:17:21 PM | INFO | Login successful... 
+5/20/2025 | 4:17:21 PM | INFO | Trying to check user info... 
+5/20/2025 | 4:17:21 PM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 1994860 
+5/20/2025 | 4:17:21 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:17:22 PM | INFO | Last mining time: 3/14/2025, 1:00:42 AM
+5/20/2025 | 4:17:22 PM | INFO | Trying to start Mining for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+5/20/2025 | 4:17:22 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/20/2025 | 4:17:22 PM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+5/20/2025 | 4:17:28 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xddec03b9961c152785fdcb2055dfbd5ef902099a3cd4c25beca898f05e547316 
