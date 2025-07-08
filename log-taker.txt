@@ -8211,3 +8211,15 @@
 7/8/2025 | 1:10:18 AM | INFO | Trying to check user miner status... 
 7/8/2025 | 1:10:19 AM | INFO | Last mining time: 7/7/2025, 1:14:18 AM
 7/8/2025 | 1:10:19 AM | WARN | Mining already started, next mining time is: 7/8/2025, 1:14:18 AM
+7/8/2025 | 4:25:00 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/8/2025 | 4:25:00 AM | INFO | Start process for wallet 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+7/8/2025 | 4:25:01 AM | INFO | Trying To Login for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+7/8/2025 | 4:25:02 AM | INFO | Login successful... 
+7/8/2025 | 4:25:02 AM | INFO | Trying to check user info... 
+7/8/2025 | 4:25:02 AM | INFO | User ID: 98916278 | Twitter: @salsayrm | Total Points: 3002860 
+7/8/2025 | 4:25:02 AM | INFO | Trying to check user miner status... 
+7/8/2025 | 4:25:04 AM | INFO | Last mining time: 7/7/2025, 1:14:18 AM
+7/8/2025 | 4:25:04 AM | INFO | Trying to start Mining for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+7/8/2025 | 4:25:06 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+7/8/2025 | 4:25:06 AM | INFO | Trying to activate mining on-chain for wallet: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a 
+7/8/2025 | 4:26:23 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3a0e1630ed85b49e5f219144b57a7161f7ab7cfb7affaed539b8978248203228 
